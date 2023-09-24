@@ -20,10 +20,10 @@ This program assumes that you have copied the raw TCP stream data as-is to a tex
 
 # Note
 
-This program does **not** solve the entire challenge for you, it only automates the repetitive parts. I woul only ever recommend automating something if you're confident in your understanding, so make sure you're comfortable with **why** this works before typing in commands. I would highly recommend watching the [official walkthrough](https://www.youtube.com/watch?v=70grYjg3fuE&t=50s) provided by NCL, it does an excellent job explaining how to solve this challenge. 
+This program does **not** solve the entire challenge for you, it only automates the repetitive parts. I would only ever recommend automating something if you're confident in your understanding, so make sure you're comfortable with **why** this works before typing in commands. I would highly recommend watching the [official walkthrough](https://www.youtube.com/watch?v=70grYjg3fuE&t=50s) provided by the NCL, it does an excellent job explaining how to solve this challenge. 
 
 If you have any questions about why or how pandora-parser does something the way that it does, feel free to ask! I'm still learning myself, but I'm happy to answer any questions you might have. You'll get the fastest response to non-issue questions by messaging me on [Discord](https://discordapp.com/users/arkryder).
 
-Lastly, this was designed for the Fall 2023 Pandora challenge. If NCL chooses to make a major update to the challenge there's a chance pandora-parser will no longer work. With a bit of modification (removing some checks and adjusting how it parses the data), it could be adapted, potentially even for a wider scope than *just* Pandora, but as-is I can only guarantee it works with this specific challenge from this specific year.
+Lastly, this was designed for the Fall 2023 Pandora challenge. If NCL chooses to make a major update to the challenge there's a chance pandora-parser will no longer work. With a bit of modification (removing some checks and adjusting how it parses the data), it could be adapted, potentially even for a wider scope than *just* Pandora, but keep in mind that as-is this project is designed for this specific challenge from this specific year. If something changes and you'd like an update, please raise an issue or let me know, and I'll gladly take a look.
 
 Thank you for using my tool, and have a lovely day!
